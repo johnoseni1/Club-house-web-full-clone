@@ -1,6 +1,7 @@
 {
   "name": "Club-spaces",
   "version": "0.1.0",
+  "author": "John Oseni",
    "dependencies": {
     "@100mslive/hms-video": "^0.0.148",
     "@100mslive/hms-video-react": "^0.3.32",
